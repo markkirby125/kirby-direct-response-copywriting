@@ -4,7 +4,7 @@
 
 An AI agent skill that enforces a rigorous 17-step direct-response copywriting framework (based on the Sabri Suby / King Kong $7.8B methodology). 
 
-This skill prevents AI tools from writing generic, sterile, "branded" fluff. When active, it forces the LLM to use proven structural formulas for headlines, deploy the Feature-Advantage-Stress (FAS) framework, and follow a strict chronologically optimized sales narrative for landing pages, VSLs, and emails.
+This skill prevents AI tools from writing generic, sterile, "branded" fluff. When active, it forces the LLM to use proven structural formulas for headlines, deploy the Feature-Advantage-Stress (FAS) framework, and follow a strict chronologically optimised sales narrative for landing pages, VSLs, and emails.
 
 ## 🚀 Installation & Magic Prompt
 
@@ -53,7 +53,7 @@ This skill was originally designed for the `~/.agents/skills/` global directory.
 
 ## 📚 Core Frameworks Enforced
 
-When this skill is active, the AI will utilize:
+When this skill is active, the AI will utilise:
 - **The 5 Universal Headline Formulas**
 - **The 17-Step Secret Selling System** (Eyebrow -> Headline -> Agitation -> Mechanism -> FAS -> Godfather Offer -> Risk Reversal)
 - **The "Halo Strategy"** for voice-of-customer market intelligence
