@@ -1,5 +1,7 @@
 # Kirby Direct Response Copywriting Skill
 
+*This skill is part of the [Kirby Skills Collection](https://github.com/markkirby125/kirby-skills-collection).*
+
 An AI agent skill that enforces a rigorous 17-step direct-response copywriting framework (based on the Sabri Suby / King Kong $7.8B methodology). 
 
 This skill prevents AI tools from writing generic, sterile, "branded" fluff. When active, it forces the LLM to use proven structural formulas for headlines, deploy the Feature-Advantage-Stress (FAS) framework, and follow a strict chronologically optimized sales narrative for landing pages, VSLs, and emails.
