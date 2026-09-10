@@ -58,3 +58,9 @@ When this skill is active, the AI will utilize:
 - **The 17-Step Secret Selling System** (Eyebrow -> Headline -> Agitation -> Mechanism -> FAS -> Godfather Offer -> Risk Reversal)
 - **The "Halo Strategy"** for voice-of-customer market intelligence
 - **The "Unslop" Protocol** (Strictly bans sterile AI tokens like *"delve"*, *"tapestry"*, and *"navigate the complexities"*)
+
+## External Resources & Authority Links
+- [Sabri Suby & King Kong Agency Methodologies](https://kingkong.co/)
+- [Harvard Business Review: The Science of Persuasion](https://hbr.org/2001/10/harnessing-the-science-of-persuasion)
+- [Nielsen Norman Group: B2B vs B2C Web Copywriting](https://www.nngroup.com/articles/b2b-vs-b2c/)
+- [Ogilvy on Advertising (Foundational Frameworks)](https://en.wikipedia.org/wiki/Ogilvy_on_Advertising)
