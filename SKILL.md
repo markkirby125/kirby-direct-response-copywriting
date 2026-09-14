@@ -268,7 +268,7 @@ Ban generic "Background $\rightarrow$ Thesis" and "General $\rightarrow$ Specifi
  
 ### **7.3 The Anti-Fluff AI Density Protocol**
 
-*Source: YouTube Video 2Al_GYBMVmg*
+*Source: Edward Sturm / The Edward Show, Episode 1167*
 
 To insulate programmatic or AI-generated pages from behavioral decay (pogo-sticking), presentation must be ruthlessly optimized for immediate answers.
 
