@@ -266,4 +266,15 @@ Ban generic "Background $\rightarrow$ Thesis" and "General $\rightarrow$ Specifi
    * *Good (App):* "Our room planner app uses AI to measure your room and create furniture layouts instantly from your photos. Use free with no sign up required. [Button]"
  * **The Conversion Impact:** A sales-driven, confidence-building opening retains high-intent searchers and drives them immediately to the Call-to-Action without forcing them to read explanatory fluff.
  
- ---
+### **7.3 The Anti-Fluff AI Density Protocol**
+
+*Source: YouTube Video 2Al_GYBMVmg*
+
+To insulate programmatic or AI-generated pages from behavioral decay (pogo-sticking), presentation must be ruthlessly optimized for immediate answers.
+
+*   **Sentence One Resolution:** Answer the user's core intent in the very first sentence. State immediately why this business or page is the right solution.
+*   **Density Over Word Count:** Write short, dense pages. 200–500 words is often optimal for bottom-of-funnel keywords. Cut bloated intros, "ultimate guide" padding, and "how we evaluated" sections. Searchers looking for alternatives already know *why* they want an alternative.
+*   **Single CTA Discipline:** Remove competing Call-To-Actions. Guide the user directly to the primary conversion point. Position your product as the single best alternative rather than listing ten tools.
+*   **AI as Editor, Not Architect:** Create the outline and structure using human intent (who searches, what they want). Use AI strictly as a copy-editor or formatter, never as the generative architect. Cut relentlessly.
+
+---
