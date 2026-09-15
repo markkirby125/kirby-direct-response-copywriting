@@ -272,7 +272,7 @@ Ban generic "Background $\rightarrow$ Thesis" and "General $\rightarrow$ Specifi
 
 To insulate programmatic or AI-generated pages from behavioral decay (pogo-sticking), presentation must be ruthlessly optimized for immediate answers.
 
-*   **Sentence One Resolution:** Answer the user's core intent in the very first sentence. State immediately why this business or page is the right solution.
+*   **BLUF (Bottom Line Up Front) / Sentence One Resolution:** Answer the user's core intent in the very first sentence. State immediately why this business or page is the right solution.
 *   **Density Over Word Count:** Write short, dense pages. 200–500 words is often optimal for bottom-of-funnel keywords. Cut bloated intros, "ultimate guide" padding, and "how we evaluated" sections. Searchers looking for alternatives already know *why* they want an alternative.
 *   **Single CTA Discipline:** Remove competing Call-To-Actions. Guide the user directly to the primary conversion point. Position your product as the single best alternative rather than listing ten tools.
 *   **AI as Editor, Not Architect:** Create the outline and structure using human intent (who searches, what they want). Use AI strictly as a copy-editor or formatter, never as the generative architect. Cut relentlessly.
