@@ -4,7 +4,7 @@ description: "Use when writing or auditing sales copy, landing pages, VSLs, or e
 category: technique
 triggers: [copywriting, sales-copy, direct-response, vsl, landing-page, conversions, marketing]
 risk: unverified
-author: william-fitzpatrick
+author: paul-kirby
 tags: [kirby, ai-agent, workflow]
 ---
 
