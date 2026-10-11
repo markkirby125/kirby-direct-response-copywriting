@@ -1,8 +1,8 @@
 ---
 name: kirby-direct-response-copywriting
-description: "Use when writing or auditing sales copy, landing pages, VSLs, or emails to enforce the 17-step Direct Response framework."
+description: "Use when writing or auditing sales copy, landing pages, VSLs, ad hooks, or emails to enforce the 17-step Direct Response framework."
 category: technique
-triggers: [copywriting, sales-copy, direct-response, vsl, landing-page, conversions, marketing]
+triggers: [copywriting, sales-copy, direct-response, vsl, landing-page, conversions, marketing, pattern-interrupt, ad-hooks, subject-lines, cold-email]
 risk: unverified
 author: paul-kirby
 tags: [kirby, ai-agent, workflow]

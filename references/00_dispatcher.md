@@ -34,6 +34,16 @@ Amateur copywriters sit down before a blank page and try to "invent" persuasive 
 2. **Reddit & Community Mining:** Search niche subreddits for threads beginning with *"Why does everyone..."*, *"I hate when..."*, or *"How do I actually..."*. Extract the exact slang, phrasing, and emotional metaphors used by prospects.
 3. **The Voice-of-Customer Mandate:** Inject those identical phrases directly into your headlines, pain agitation sections, and fascination bullets. When a prospect reads their own internal monologue on your page, trust is immediate.
 
+### **1.4 The 97% Market Doctrine (The Not-Ready-To-Buy Majority)**
+
+*Source: Sabri Suby / King Kong, "How to Go From $0 to $100k/day with Meta Ads". October 2026.*
+
+**97% of any market is not ready to buy right now**; only ~3% is actively in-market. Direct-response offer copy converts the 3% — and a funnel that fights exclusively over that 3% inflates acquisition costs against every competitor doing the same.
+
+* **The segmentation law:** The 17-step selling system (Module 3) is a bottom-of-funnel instrument. The 97% requires education-first motion — curiosity-driven content, native advertorials, and low-friction CTAs ("Learn More") that move problem-aware and problem-unaware readers toward the market before the selling system ever fires.
+* **Pain-agitation gating:** Step 5's "kick the bruised knee" protocol assumes the prospect already feels the bruise. For the problem-unaware slice, the pain must first be made *visible* through education before it can be agitated.
+* **Cross-skill:** The full Meta scaling pipeline and advertorial funnel topology live in `../../kirby-paid-acquisition/SKILL.md` (Modules 2 & 4); presell-page formatting rules live in `../../kirby-text-first-cro/SKILL.md` §15.
+
 ---
 
 ## **Module 2: The 5 Universal Headline Formulas & Eyebrow Architecture**
@@ -60,6 +70,17 @@ Every headline must combine a massive, desirable benefit with an element of intr
 ### **2.3 The Sub-Headline Engine**
 * **The Function:** The headline arrests attention with a big, bold claim; the sub-headline immediately contextualizes and substantiates that claim in 1–2 sentences, pulling the reader directly into the leading body copy.
 * **The Rule:** Never tell the entire story in the headline. The sub-headline must generate open cognitive loops that can only be resolved by continuing down the page.
+
+### **2.4 The Hyperdopamine Pattern-Interrupt Hook (Scroll-Stop Copy)**
+
+*Source: Sabri Suby / King Kong, "How to Go From $0 to $100k/day with Meta Ads". October 2026.*
+
+On feed and native surfaces, the headline's job expands from arresting attention to **breaking the scrolling trance within the first 0.5 seconds**:
+
+* **Curiosity-driven hook:** Open a loop the scroll cannot close — §2.3's open-cognitive-loop rule, compressed into the very first line of the ad itself.
+* **Raw native imagery:** Mimic editorial news or candid UGC, never polished corporate ad aesthetics. Polished production pattern-matches as "advertisement" and gets skipped before the hook lands.
+* **High-intrigue storytelling:** Narrative tension must carry the viewer past the hook and into the body — the story is the delivery vehicle for the §2.2 headline formulas on paid surfaces.
+* **Creative-is-the-targeting doctrine:** The hook itself self-selects the audience — the right pattern interrupt hunts the right viewer and repels everyone else. The full scaling pipeline built on this doctrine lives in `../../kirby-paid-acquisition/SKILL.md` Module 2.
 
 ---
 
@@ -270,5 +291,28 @@ To insulate programmatic or AI-generated pages from behavioral decay (pogo-stick
 *   **Density Over Word Count:** Write short, dense pages. 200–500 words is often optimal for bottom-of-funnel keywords. Cut bloated intros, "ultimate guide" padding, and "how we evaluated" sections. Searchers looking for alternatives already know *why* they want an alternative.
 *   **Single CTA Discipline:** Remove competing Call-To-Actions. Guide the user directly to the primary conversion point. Position your product as the single best alternative rather than listing ten tools.
 *   **AI as Editor, Not Architect:** Create the outline and structure using human intent (who searches, what they want). Use AI strictly as a copy-editor or formatter, never as the generative architect. Cut relentlessly.
+
+---
+
+## **Module 8: Cold-Email Outreach & Subject-Line Engineering**
+
+### **8.1 The Sub-30-Character Subject Line Law**
+
+*Source: Edward Sturm / The Edward Show, Episode E1194 (6,337-email empirical study). October 2026.*
+
+The subject line is the headline of the inbox — Ogilvy's 80/20 law (§1.2) applies in full, and the empirical cliff is steep:
+
+* **Under 30 characters: 83.7% open rate**, vs 69.5% for subject lines over 30 characters — a 14-point premium for brevity alone.
+* **Numbers in subject lines significantly lift open rates** — the same specificity rule as the §2.2 Curated Value Formula.
+* Draft subject lines as headlines: benefit + intrigue, under 30 characters, number-led where honest.
+
+### **8.2 Outreach Body & Sequence Rules (Copy-Level Summary)**
+
+The full empirical dataset (word-count reply curves, follow-up math, send timing, value-first pitching, recipient targeting) is codified for link acquisition in `../../kirby-off-page-seo/SKILL.md` Module 22. The copy-level mandates that transfer to ALL cold outreach — link building, PR, partnerships, sales:
+
+* **60–90 word body mandate.** Reply rate collapses from 11.9% (<100 words) to 1.9% (100–200 words); every word past ~90 is a regression.
+* **1–2 follow-ups maximum.** The first follow-up carries a +61% reply lift; the sequence plateaus hard after two, while more burns domain reputation.
+* **Value-first open.** Never lead with the ask — lead with the broken link, the original statistic, or the correction, then make the ask.
+
 
 ---
