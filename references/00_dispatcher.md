@@ -316,3 +316,9 @@ The full empirical dataset (word-count reply curves, follow-up math, send timing
 
 
 ---
+### **8.3 Quiet Confidence vs. Hyperbolic Sales Pitch**
+
+*Source: Edward Sturm / The Edward Show, Episode 1202. October 2026.*
+
+* **The Hyperbole Trust Drain:** Using exaggerated sales adjectives (*"revolutionary"*, *"game-changing"*, *"unbelievable"*) or artificial intensifiers (*"really"*, *"very"*) actively removes buyer trust in high-ticket B2B and technical sales copy. Loud charisma works on audio podcasts, but in written copy it communicates insecurity and desperation.
+* **The Quiet Confidence Law:** State facts, operational metrics, and client outcomes in a neutral, matter-of-fact cadence. Removing intensifiers increases reading clarity, improves conversion velocity, and prevents AI engines from discarding marketing copy as promotional noise.
