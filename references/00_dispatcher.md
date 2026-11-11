@@ -263,13 +263,13 @@ Ban generic "Background $\rightarrow$ Thesis" and "General $\rightarrow$ Specifi
  
  *Source: The Edward Show, Episode 1051 (Edward Sturm).*
  
- Misjudging the user's intent in the first paragraph leads to immediate pogo-sticking (bouncing back to the SERP), which destroys conversion rates and signals to Google that the page is low quality. Align the opening sentences precisely with the funnel stage.
+ Misjudging the user's intent in the first paragraph leads to immediate pogo-sticking (bouncing back to the SERP), which hurts conversion and may signal low quality to search engines (directional; the ranking effect is inferred, not measured). Align the opening sentences precisely with the funnel stage.
  
  #### A. Top of Funnel (TOFU) Intent: The Quick Solution
  * **The User:** Asking a question (e.g., "why is my sink draining slowly?"). They want an answer, not a brand pitch yet.
  * **The Error:** Burying the answer under paragraphs of fluff or long introductions.
  * **The Fix:** Provide the answer immediately in the first sentence using a close variation of the keyword. 
-   * *Example:* "The most common reason your sink is draining slowly is a buildup of hair or grease in the pipe. The easiest fix is flushing the drain with hot water or using a plunger."
+   * *Example (23 words):* "A slow sink drain is usually a buildup of hair or grease in the pipe; hot water or a plunger often clears it."
  * **The Funnel Transition:** Once the searcher's immediate question is satisfied, trust is established. Only then should the copy expand into detailed causes, pulling the user deeper into the content and eventually toward a lead magnet or service offer.
  
  #### B. Bottom of Funnel (BOFU) Intent: High-Intent Sales Copy
@@ -285,10 +285,11 @@ Ban generic "Background $\rightarrow$ Thesis" and "General $\rightarrow$ Specifi
 
 *Source: Edward Sturm / The Edward Show, Episode 1167*
 
-To insulate programmatic or AI-generated pages from behavioral decay (pogo-sticking), presentation must be ruthlessly optimized for immediate answers.
+Programmatic or AI-generated pages should be presented for immediate answers, which reduces pogo-sticking (directional, single-source). Presentation alone does not protect a page from a quality demotion.
 
-*   **BLUF (Bottom Line Up Front) / Sentence One Resolution:** Answer the user's core intent in the very first sentence. State immediately why this business or page is the right solution.
-*   **Density Over Word Count:** Write short, dense pages. 200–500 words is often optimal for bottom-of-funnel keywords. Cut bloated intros, "ultimate guide" padding, and "how we evaluated" sections. Searchers looking for alternatives already know *why* they want an alternative.
+*   **BLUF (Bottom Line Up Front) / Sentence One Resolution:** Open with a 20-25 word answer capsule that resolves the user's core intent (up to about 45 words where the answer needs it; directional, single-source). On bottom-of-funnel pages the capsule also states why this business is the right solution; on top-of-funnel pages it only answers (§7.2).
+*   **Density Over Word Count:** Write short, dense pages. 200–500 words is often enough for bottom-of-funnel keywords (a starting heuristic from one source, not a target; length follows what the query needs). Cut bloated intros, "ultimate guide" padding, and "how we evaluated" sections. Searchers looking for alternatives already know *why* they want an alternative.
+*   **Density Is Not Originality:** Density never replaces originality. Each page needs at least one first-party datum, screenshot, price or demo that the competing URLs do not carry. Never invent it: with no true first-party datum, publish fewer pages. Scaled templated pages that vary only a keyword or place name risk a manual action or demotion under Google's scaled content abuse policy; a city page is fine per page, but each one still owes its own datum.
 *   **Single CTA Discipline:** Remove competing Call-To-Actions. Guide the user directly to the primary conversion point. Position your product as the single best alternative rather than listing ten tools.
 *   **AI as Editor, Not Architect:** Create the outline and structure using human intent (who searches, what they want). Use AI strictly as a copy-editor or formatter, never as the generative architect. Cut relentlessly.
 
